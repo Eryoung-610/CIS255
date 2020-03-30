@@ -1,0 +1,4 @@
+valid1@email.com
+valid2@email.co
+valid.valid3@email.com
+valid4@valid.comm
